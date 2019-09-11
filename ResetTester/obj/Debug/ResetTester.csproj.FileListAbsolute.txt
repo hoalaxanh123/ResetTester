@@ -1,0 +1,10 @@
+C:\Users\quang\source\repos\ResetTester\ResetTester\obj\Debug\ResetTester.csprojAssemblyReference.cache
+C:\Users\quang\source\repos\ResetTester\ResetTester\obj\Debug\ResetTester.Form1.resources
+C:\Users\quang\source\repos\ResetTester\ResetTester\obj\Debug\ResetTester.Properties.Resources.resources
+C:\Users\quang\source\repos\ResetTester\ResetTester\obj\Debug\ResetTester.csproj.GenerateResource.cache
+C:\Users\quang\source\repos\ResetTester\ResetTester\obj\Debug\ResetTester.csproj.CoreCompileInputs.cache
+C:\Users\quang\source\repos\ResetTester\ResetTester\bin\Debug\ResetTester.exe.config
+C:\Users\quang\source\repos\ResetTester\ResetTester\bin\Debug\ResetTester.exe
+C:\Users\quang\source\repos\ResetTester\ResetTester\bin\Debug\ResetTester.pdb
+C:\Users\quang\source\repos\ResetTester\ResetTester\obj\Debug\ResetTester.exe
+C:\Users\quang\source\repos\ResetTester\ResetTester\obj\Debug\ResetTester.pdb
